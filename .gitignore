@@ -1,0 +1,10 @@
+# Données et poids (non publiés)
+data/
+outputs/
+*.pt
+assets.zip
+
+# Fichiers générés
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
